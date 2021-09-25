@@ -18,10 +18,10 @@ My name is Caio, I'm 15 years old and most of the time I spend developing in Jav
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>MrCaio#0007</string>
+  <string>Paladino#7520</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@MrCaio11</string> </br>
+  <string>@oPaladino_</string> </br>
 </details> 
   
 <br/>
